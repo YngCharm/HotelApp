@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace HotelApp.Views
 {
     /// <summary>
-    /// Логика взаимодействия для RegistrationViewxaml.xaml
+    /// Логика взаимодействия для AdministatorView.xaml
     /// </summary>
-    public partial class RegistrationViewxaml : Page
+    public partial class AdministatorView : Page
     {
-        public RegistrationViewxaml()
+        public AdministatorView()
         {
             InitializeComponent();
         }

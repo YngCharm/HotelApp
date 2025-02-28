@@ -24,5 +24,10 @@ namespace HotelApp.Views
         {
             InitializeComponent();
         }
+
+        private void On_reg_click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new RegistrationView());
+        }
     }
 }
